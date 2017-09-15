@@ -51,4 +51,7 @@ inntakstæli eru tildæmis Mýs,Lyklabord og Myndavél
 | Samsung 850 EVO SSD | [Tölvutækni](http://tolvutaekni.is/product_info.php?cPath=28_39_150&products_id=2882) | 25.900 kr. |
 | CoolerMaster G750M | [Tölvutækni](http://tolvutaekni.is/product_info.php?cPath=28_38&products_id=3191) | 19.990kr. |
 
-![alt text](https://github.com/helgituan/TAEK2/blob/master/Myndir/mynd1.jpg){:height="36px" width="36px"}
+![alt text](http://tolvutaekni.is/images/i7-6700-sm.jpg)
+![alt text](http://tolvutaekni.is/images/Asus-Z170-A-sm.jpg)
+![alt text](http://tolvutaekni.is/images/BallistixSportLTDDR4-sm.jpg)
+![alt text](http://kisildalur.is/web/uploads/images/3719_small.jpg)
