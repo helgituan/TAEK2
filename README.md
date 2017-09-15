@@ -7,3 +7,5 @@ RAM stendur fyrir Random Access Memory , RAM er vinnsluminni semsagt það lesur
 
 ### 2. Fyrir hvað stendur skammstöfunin ROM? Útskýrðu hvað ROM er.
 ROM stendur fyrir Read Only Memory , ROM les software það sem er nálægt hardware
+
+### 3. Hvað er fyrirbyggjandi viðhald?
