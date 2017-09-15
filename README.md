@@ -50,3 +50,5 @@ inntakstæli eru tildæmis Mýs,Lyklabord og Myndavél
 | GTX 1080 8GB | [Kísildalur](http://kisildalur.is/?p=2&id=3446) | 78.500kr |
 | Samsung 850 EVO SSD | [Tölvutækni](http://tolvutaekni.is/product_info.php?cPath=28_39_150&products_id=2882) | 25.900 kr. |
 | CoolerMaster G750M | [Tölvutækni](http://tolvutaekni.is/product_info.php?cPath=28_38&products_id=3191) | 19.990kr. |
+
+![alt text](https://github.com/helgituan/TAEK2/blob/master/Myndir/mynd1.jpg)
