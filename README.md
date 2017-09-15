@@ -45,5 +45,8 @@ inntakstæli eru tildæmis Mýs,Lyklabord og Myndavél
 | Vörur         | Linkur                                                  |    Verð    |
 | ------------- |:-------------------------------------------------------:| ----------:|
 | i7-7700k      | [Tölvutækni](http://tolvutaekni.is/product_info.php?products_id=3271) | 45.900 kr. |
-| Asus Prime Z270-A | [Tölvutækni](http://tolvutaekni.is/product_info.php?products_id=3288)      	                                      |   32.900 kr.      |
-| Crucial 32GB kit(2x 16GB) | [Tölvutækni](http://tolvutaekni.is/product_info.php?cPath=28_34_166&products_id=3177)                                                |    34.900 kr.      |
+| Asus Prime Z270-A | [Tölvutækni](http://tolvutaekni.is/product_info.php?products_id=3288)  |   32.900 kr.  |
+| Crucial 32GB kit(2x 16GB) | [Tölvutækni](http://tolvutaekni.is/product_info.php?cPath=28_34_166&products_id=3177)  |  34.900 kr. |
+| GTX 1080 8GB | [Kísildalur](http://kisildalur.is/?p=2&id=3446) | 78.500kr |
+| Samsung 850 EVO SSD | [Tölvutækni](http://tolvutaekni.is/product_info.php?cPath=28_39_150&products_id=2882) | 25.900 kr. |
+| CoolerMaster G750M | [Tölvutækni](http://tolvutaekni.is/product_info.php?cPath=28_38&products_id=3191) | 19.990kr. |
