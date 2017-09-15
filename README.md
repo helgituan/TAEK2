@@ -44,6 +44,6 @@ inntakstæli eru tildæmis Mýs,Lyklabord og Myndavél
 
 | Vörur         | Linkur                                                  |    Verð    |
 | ------------- |:-------------------------------------------------------:| ----------:|
-| i7-7700k      | [http://tolvutaekni.is/product_info.php?products_id=3271](Tölvutækni) | 45.900 kr. |
-| col 2 is      | centered      	                                      |   $12      |
-| zebra stripes | are neat                                                |    $1      |
+| i7-7700k      | [Tölvutækni](http://tolvutaekni.is/product_info.php?products_id=3271) | 45.900 kr. |
+| Asus Prime Z270-A | [Tölvutækni](http://tolvutaekni.is/product_info.php?products_id=3288)      	                                      |   32.900 kr.      |
+| Crucial 32GB kit(2x 16GB) | [Tölvutækni](http://tolvutaekni.is/product_info.php?cPath=28_34_166&products_id=3177)                                                |    34.900 kr.      |
