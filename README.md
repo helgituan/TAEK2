@@ -42,8 +42,8 @@ inntakstæli eru tildæmis Mýs,Lyklabord og Myndavél
 
 ### 10. Notaðu vefsíður íslenskra tölvuverslana til að velja íhluti til að setja saman góða leikjatölvu. Þú ert með fjármagn upp á 250 þúsund krónur. Settu upp töflu þar sem fram kemur hvaða íhluti þú valdir, mynd af íhlutnum, hvað hver íhlutur kostar og hvar hann fæst.
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| Vörur         | Linkur                                                  |    Verð    |
+| ------------- |:-------------------------------------------------------:| ----------:|
+| i7-7700k      | [http://tolvutaekni.is/product_info.php?products_id=3271](Tölvutækni) | 45.900 kr. |
+| col 2 is      | centered      	                                      |   $12      |
+| zebra stripes | are neat                                                |    $1      |
